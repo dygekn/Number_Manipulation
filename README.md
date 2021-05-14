@@ -1,4 +1,4 @@
-# Number_Manipulation
+# Prisoner 
 def door(): 
     import random
     n1=0.10
